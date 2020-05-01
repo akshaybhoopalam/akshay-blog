@@ -3,10 +3,10 @@ module.exports = {
     title: `Akshay's Blog`,
     author: {
       name: `Akshay Bhoopalam`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      summary: `who lives and studies in Bengaluru India building useful things.`,
     },
     description: `A blog`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://akshayblog.netlify.app/`,
     social: {
       twitter: `akshaybhoopalam`,
     },
@@ -66,7 +66,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `/gatsby-icon.png`,
       },
     },
     `gatsby-plugin-react-helmet`,
