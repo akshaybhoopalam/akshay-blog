@@ -4,7 +4,7 @@ date: "2015-05-01T22:12:03.284Z"
 description: "Intoduction about myself"
 ---
 
->Hello all! This is my first post let me Introduce about myself this is Akshay Bhoopalam currently persuing MCA (Master Of Computer Application) in >PES University Bangalore. Im Interested in software development and learning new things related to IT.  
+>Hello all! This is my first post let me Introduce about myself this is Akshay Bhoopalam currently persuing MCA (Master Of Computer Application) in PES University Bangalore. Im Interested in software development and learning new things related to IT.  
 
 I'm sure I'll write a lot more interesting things in the future.
 
@@ -21,5 +21,5 @@ I'm sure I'll write a lot more interesting things in the future.
 * No Sql (MOngo DB)
  
 Keep watching this space for future updates about me and projects i work on ..
-![Chinese Salty Egg](./salty_egg.jpg)
 
+![Akshay Bhoopalam](./profile.jpg)
