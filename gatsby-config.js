@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Akshay's Blog`,
+    title: `Gatsby Starter Blog`,
     author: {
-      name: `Akshay Bhoopalam`,
-      summary: `who lives and studies in Bengaluru India building useful things.`,
+      name: `Kyle Mathews`,
+      summary: `who lives and works in San Francisco building useful things.`,
     },
-    description: `A blog`,
-    siteUrl: `https://akshayblog.netlify.app/`,
+    description: `A starter blog demonstrating what Gatsby can do.`,
+    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
-      twitter: `akshaybhoopalam`,
+      twitter: `kylemathews`,
     },
   },
   plugins: [
@@ -66,7 +66,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `/gatsby-icon.png`,
+        icon: `content/assets/gatsby-icon.png`,
       },
     },
     `gatsby-plugin-react-helmet`,
